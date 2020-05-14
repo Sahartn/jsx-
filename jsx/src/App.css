@@ -1,0 +1,36 @@
+.title {
+  text-align: center;
+}
+
+.red {
+  height: 40vmin;
+  pointer-events: none;
+}
+.ht  {
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  height: 200px;
+  width: 200px;
+
+}
+.jsx {
+
+
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  height: 200px;
+  width: 200px;
+
+}
+.body{
+  background-color: chartreuse;
+}
+.vid{
+  margin-right: auto ;
+  margin-left: auto;
+  display: block;
+}
+
